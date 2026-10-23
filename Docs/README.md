@@ -87,7 +87,7 @@ Once the project has been initialized with its dependencies, the expected develo
 
 ```bash
 # Clone the repository
-git clone <https://github.com/Imdilshan/DSA-VIZUALIZER>
+git clone https://github.com/Imdilshan/DSA-VIZUALIZER
 
 # Enter the project directory
 cd DSA-VIZUALIZER
