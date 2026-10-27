@@ -11,8 +11,6 @@
 
 
 ### Non Goals
-  - Monetization, subscriptions, advertisements, or paid features.
-  - User accounts, authentication, or account-based progress tracking.
   - Building a full online judge or code execution platform in the initial version.
   - Implementing the entire A2Z DSA Sheet
 ---
@@ -46,8 +44,7 @@
 
 5. Accessibility and Availability
 * FR-18: All learning materials, visualizations, and practice features shall be accessible without login or registration.
-* FR-19: All core features shall be available without payment or subscription.
-* FR-20: The system shall provide a responsive interface for desktop, tablet, and mobile devices.
+* FR-19: The system shall provide a responsive interface for desktop, tablet, and mobile devices.
 
 ## Non-Functional Requirements
 

@@ -41,11 +41,9 @@ Won’t Have in the MVP
 * Complete A2Z DSA coverage at launch.
 
 3. Task Tracking
-
 Use GitHub Projects to manage the work.
 
 Organize tasks into:
-
 * Milestones: Major development stages.
 * Epics: Large features, such as the visualization engine.
 * Issues: Individual implementation tasks and bug fixes.
@@ -53,5 +51,4 @@ Organize tasks into:
 Assign each issue a priority, status, and estimated effort. Keep tasks small enough to complete and test independently.
 
 4. Development Principle
-
 Build incrementally. Complete and test one milestone before expanding scope unnecessarily. Since you’re learning DSA alongside development, add visualizations as you gain confidence in each topic.
